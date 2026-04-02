@@ -6,7 +6,7 @@ import Books from "./pages/Books";
 import { books } from "./data";
 import BookInfo from "./pages/BookInfo";
 import Cart from "./pages/Cart";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 function App() {
   const [cart, setCart] = useState([]);
