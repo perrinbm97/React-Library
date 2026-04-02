@@ -1,5 +1,6 @@
 import { books } from "../data";
 import Book from "./ui/Book";
+import React from "react";
 
 const Discounted = () => {
   return (

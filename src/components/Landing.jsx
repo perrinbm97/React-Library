@@ -1,4 +1,5 @@
 import UndrawBooks from "../assets/Undraw_Books.svg";
+import React from "react";
 
 const Landing = () => {
   return (
